@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="eUritScyV_ouBf6Njlojh29DPNkAMjaWAsOixrGp1yk" />
+
 # Proxy URL Registry
 
 Pre-constructed proxy URLs for authoritative government portals that
@@ -18,3 +20,4 @@ Inspectorate's NSIP register. The proxy converts the HTML page to
 clean Markdown that is easier to parse.
 
 Maintained by Morten Jensen
+
