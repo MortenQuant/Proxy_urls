@@ -17,9 +17,55 @@ NSIP URLs are written out in full so they can be copied as-is.
 
 ## Stage vocabulary
 
-The Planning Inspectorate runs every NSIP through this fixed pipeline. Each project block lists the current stage; all prior stages are completed unless flagged otherwise.
+The Planning Inspectorate runs every NSIP through this fixed pipeline. The Stage Progress table below carries the per-stage tag (`Completed` / `In progress` / `Not started` / `Current`) directly from each project's NSIP page.
 
-`Pre-application` → `Acceptance` → `Pre-examination` → `Examination` → `Recommendation` → `Decision` → `Post-decision`
+`Pre-application` → `Acceptance` → `Pre-examination` → `Examination` → `Recommendation` → `Decision` → `Post-decision` ("What happens after the decision is made")
+
+## Stage Progress — all projects at a glance
+
+Tag values mirror the live NSIP project page exactly as displayed. Read across each row to see where the project sits. The Planning Inspectorate sometimes shows the post-decision row only for newer-format pages; for older granted projects it is implied (Decision = Completed → project is in post-decision by definition) and shown as `Current` here. Re-fetch the NSIP URL to confirm.
+
+| Project | Reference | Pre-application | Acceptance | Pre-examination | Examination | Recommendation | Decision | Post-decision |
+|---|---|---|---|---|---|---|---|---|
+| Dogger Bank D | EN010144 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Dogger Bank South East / West | EN010125 | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
+| North Falls | EN010119 | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
+| Mona | EN010137 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Morgan Offshore Wind — Generation Assets | EN010136 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Outer Dowsing | EN010130 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Morecambe Offshore Windfarm — Generation Assets | EN010121 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Rampion 2 | EN010117 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Five Estuaries | EN010115 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Awel y Môr | EN010112 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Sheringham and Dudgeon Extension | EN010109 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Hornsea Project Four | EN010098 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Norfolk Boreas | EN010087 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Thanet Extension (refused) | EN010084 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Hornsea Project Three | EN010080 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Norfolk Vanguard | EN010079 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| East Anglia TWO | EN010078 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| East Anglia ONE North | EN010077 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| East Anglia THREE | EN010056 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Hornsea Project Two | EN010053 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Sofia / Dogger Bank C | EN010051 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Hornsea Project One | EN010033 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Rampion | EN010032 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Walney Extension | EN010027 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Burbo Bank Extension | EN010026 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| East Anglia ONE | EN010025 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Dogger Bank Creyke Beck (A and B) | EN010021 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Triton Knoll | EN010005 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Galloper | EN010003 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| **Transmission DCOs** | | | | | | | | |
+| Morgan and Morecambe — Transmission Assets | EN020032 | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
+| East Irish Sea Transmission (Mooir Vannin) | EN0210008 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Triton Knoll Electrical System | EN020019 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| **OWF-enabling transmission corridors** | | | | | | | | |
+| Eastern Green Link 3 and 4 | EN0210003 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Eastern Green Link 5 | EN0210010 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| LionLink Interconnector | EN020033 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+
+`Current (implied)` means the project page does not show a separate Post-decision row but the order has been made and the project is by definition post-decision. Newer page layouts (Mona, Morgan, Morecambe, Five Estuaries, Hornsea Four, Norfolk Vanguard / Boreas, EA1N / EA2 etc.) show `Current` explicitly. Re-fetch any project's NSIP URL to confirm the live tag.
 
 ---
 
