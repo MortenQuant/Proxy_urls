@@ -25,45 +25,45 @@ The Planning Inspectorate runs every NSIP through this fixed pipeline. The Stage
 
 Tag values mirror the live NSIP project page exactly as displayed. Read across each row to see where the project sits. The Planning Inspectorate sometimes shows the post-decision row only for newer-format pages; for older granted projects it is implied (Decision = Completed → project is in post-decision by definition) and shown as `Current` here. Re-fetch the NSIP URL to confirm.
 
-| Project | Reference | Pre-application | Acceptance | Pre-examination | Examination | Recommendation | Decision | Post-decision |
-|---|---|---|---|---|---|---|---|---|
-| Dogger Bank D | EN010144 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
-| Dogger Bank South East / West | EN010125 | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
-| North Falls | EN010119 | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
-| Mona | EN010137 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Morgan Offshore Wind — Generation Assets | EN010136 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Outer Dowsing | EN010130 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Morecambe Offshore Windfarm — Generation Assets | EN010121 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Rampion 2 | EN010117 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Five Estuaries | EN010115 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Awel y Môr | EN010112 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Sheringham and Dudgeon Extension | EN010109 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Hornsea Project Four | EN010098 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Norfolk Boreas | EN010087 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Thanet Extension (refused) | EN010084 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Hornsea Project Three | EN010080 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| Norfolk Vanguard | EN010079 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| East Anglia TWO | EN010078 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| East Anglia ONE North | EN010077 | Completed | Completed | Completed | Completed | Completed | Completed | Current |
-| East Anglia THREE | EN010056 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Hornsea Project Two | EN010053 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Sofia / Dogger Bank C | EN010051 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Hornsea Project One | EN010033 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Rampion | EN010032 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Walney Extension | EN010027 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Burbo Bank Extension | EN010026 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| East Anglia ONE | EN010025 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Dogger Bank Creyke Beck (A and B) | EN010021 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Triton Knoll | EN010005 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| Galloper | EN010003 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| **Transmission DCOs** | | | | | | | | |
-| Morgan and Morecambe — Transmission Assets | EN020032 | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
-| East Irish Sea Transmission (Mooir Vannin) | EN0210008 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
-| Triton Knoll Electrical System | EN020019 | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
-| **OWF-enabling transmission corridors** | | | | | | | | |
-| Eastern Green Link 3 and 4 | EN0210003 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
-| Eastern Green Link 5 | EN0210010 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
-| LionLink Interconnector | EN020033 | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Project | Reference | Proxy URL | Pre-application | Acceptance | Pre-examination | Examination | Recommendation | Decision | Post-decision |
+|---|---|---|---|---|---|---|---|---|---|
+| Dogger Bank D | EN010144 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010144&title=true&clean=true | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Dogger Bank South East / West | EN010125 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010125&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
+| North Falls | EN010119 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010119&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
+| Mona | EN010137 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010137&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Morgan Offshore Wind — Generation Assets | EN010136 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010136&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Outer Dowsing | EN010130 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010130&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Morecambe Offshore Windfarm — Generation Assets | EN010121 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010121&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Rampion 2 | EN010117 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010117&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Five Estuaries | EN010115 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010115&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Awel y Môr | EN010112 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010112&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Sheringham and Dudgeon Extension | EN010109 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010109&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Hornsea Project Four | EN010098 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010098&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Norfolk Boreas | EN010087 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010087&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Thanet Extension (refused) | EN010084 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010084&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Hornsea Project Three | EN010080 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010080&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| Norfolk Vanguard | EN010079 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010079&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| East Anglia TWO | EN010078 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010078&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| East Anglia ONE North | EN010077 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010077&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current |
+| East Anglia THREE | EN010056 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010056&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Hornsea Project Two | EN010053 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010053&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Sofia / Dogger Bank C | EN010051 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010051&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Hornsea Project One | EN010033 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010033&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Rampion | EN010032 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010032&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Walney Extension | EN010027 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010027&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Burbo Bank Extension | EN010026 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010026&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| East Anglia ONE | EN010025 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010025&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Dogger Bank Creyke Beck (A and B) | EN010021 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010021&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Triton Knoll | EN010005 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010005&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| Galloper | EN010003 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN010003&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| **Transmission DCOs** | | | | | | | | | |
+| Morgan and Morecambe — Transmission Assets | EN020032 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN020032&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | In progress | Not started |
+| East Irish Sea Transmission (Mooir Vannin) | EN0210008 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN0210008&title=true&clean=true | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Triton Knoll Electrical System | EN020019 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN020019&title=true&clean=true | Completed | Completed | Completed | Completed | Completed | Completed | Current (implied) |
+| **OWF-enabling transmission corridors** | | | | | | | | | |
+| Eastern Green Link 3 and 4 | EN0210003 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN0210003&title=true&clean=true | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| Eastern Green Link 5 | EN0210010 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN0210010&title=true&clean=true | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
+| LionLink Interconnector | EN020033 | https://urltomarkdown.herokuapp.com/?url=https%3A%2F%2Fnational-infrastructure-consenting.planninginspectorate.gov.uk%2Fprojects%2FEN020033&title=true&clean=true | In progress | Not started | Not started | Not started | Not started | Not started | Not started |
 
 `Current (implied)` means the project page does not show a separate Post-decision row but the order has been made and the project is by definition post-decision. Newer page layouts (Mona, Morgan, Morecambe, Five Estuaries, Hornsea Four, Norfolk Vanguard / Boreas, EA1N / EA2 etc.) show `Current` explicitly. Re-fetch any project's NSIP URL to confirm the live tag.
 
